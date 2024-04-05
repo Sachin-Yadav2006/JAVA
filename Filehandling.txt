@@ -1,0 +1,3 @@
+Welcome to the file handling section of java!!
+Just exploring the file handling in java!!
+Exploring write method of the FileWriter Class

@@ -1,0 +1,6 @@
+StudentName		Age		Gender		ContactNo		EmailID
+Sachin Yadav		 18		Male		6389681316		sachinyadav@gmail.com
+Rohin Kumar		 18		Male		6389812336		rohinkumarv@gmail.com
+Priyanshu 		 19		Male		369852172		priyanshuv@gmail.com
+Ashish Kushwaaha		18		Male		8726112768		ashishkushwaha@gmail.com
+Aman Kumar Panika		19		Male		1234567890		panikakumaraman@gmail.com
