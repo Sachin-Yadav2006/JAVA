@@ -8,6 +8,7 @@ public class adjacentvowels {
         str=str+" ";
         int len=str.length();
         char ch;
+        System.out.println("The adjacent vowels in the string entered are :");
         for(int i=0;i<len;i++)
         {
             ch=str.charAt(i);

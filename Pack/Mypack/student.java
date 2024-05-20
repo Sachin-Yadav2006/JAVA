@@ -1,4 +1,4 @@
-package Pack.Mypack;
+
 public class student{
     protected void stupro(){
         System.out.println("Defined protected in Student");

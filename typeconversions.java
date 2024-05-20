@@ -11,7 +11,7 @@ public class typeconversions {
             case 1:
                 System.out.println("Enter the integer value:");
                 int num=obj.nextInt();
-                System.out.println("The conversion of the integer entered is \n Float"+ (float)num);
+                System.out.println("The conversion of the integer entered is \n Float "+ (float)num);
                 System.out.println("Double: "+ (double)num);
                 System.out.println("Character: "+ (char)num);
                 break;

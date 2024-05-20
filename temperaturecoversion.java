@@ -7,7 +7,7 @@ public class temperaturecoversion {
         float fahr,kelvin;
         kelvin=273+celsius;
         fahr=(celsius*9/5)+32;
-        System.out.println("The temperature in Kelvin is"+ kelvin+"K");
+        System.out.println("The temperature in Kelvin is "+ kelvin+"K");
         System.out.println("The temperature in Fahrenheit is "+ fahr+"F");
         obj.close();
     }
